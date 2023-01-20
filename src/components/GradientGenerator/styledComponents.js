@@ -21,7 +21,7 @@ export const ContentContainer = styled.div`
 `
 
 export const MainHeading = styled.h1`
-  color: ;#ededed
+  color: #ededed;
 `
 export const SubHeading = styled.p`
   color: #ffffff79;

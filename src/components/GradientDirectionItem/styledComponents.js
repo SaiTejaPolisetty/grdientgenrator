@@ -8,7 +8,7 @@ const Button = styled.button`
   font-size: 18px;
   padding: 5px 15px;
   border: none;
-  background-color: '#ededed';
+  background-color: #ededed;
   margin: 10px;
   cursor: pointer;
   opacity: ${props => props.opacity};
